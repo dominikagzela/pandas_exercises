@@ -22,6 +22,4 @@ print(df_two_columns.head())
 # 5. Use the describe command with the DataFrame you just created to see summaries of those variables.
 print(df_two_columns.describe())
 
-print(df.tail())
-print(df.tail(15))
 
